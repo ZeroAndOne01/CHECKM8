@@ -9,29 +9,10 @@
         <title>CheckM8 — Register</title>
     </head>
     <body style="background-color: #313131;">
-        <div class="container-fluid" style="margin-bottom: 180px;">
+        <div class="container-fluid">
             <div class="row m-3">
-                <div class="col black-box scroll-box m-3 p-3">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent vehicula libero nec turpis fermentum, sed convallis neque porta.</p>
-                    <p>Curabitur sit amet justo vel leo varius faucibus.</p>
-                    <p>Donec fringilla massa a urna cursus, a eleifend odio gravida.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent vehicula libero nec turpis fermentum, sed convallis neque porta.</p>
-                    <p>Curabitur sit amet justo vel leo varius faucibus.</p>
-                    <p>Donec fringilla massa a urna cursus, a eleifend odio gravida.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent vehicula libero nec turpis fermentum, sed convallis neque porta.</p>
-                    <p>Curabitur sit amet justo vel leo varius faucibus.</p>
-                    <p>Donec fringilla massa a urna cursus, a eleifend odio gravida.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p>Praesent vehicula libero nec turpis fermentum, sed convallis neque porta.</p>
-                    <p>Curabitur sit amet justo vel leo varius faucibus.</p>
-                    <p>Donec fringilla massa a urna cursus, a eleifend odio gravida.</p>
-                </div>
-                <div class="col-9 m-3">
-                    <div class="row">
-                    </div>
+                <div class="col black-box m-3 p-3" style="height: 75vh;"></div>
+                <div class="col-9 m-3 scroll-box" style="max-height: 80vh; padding-bottom: 10vh;">
                     <div class="row">
                         <div class="col-10">
                             <input type="text" class="form-control rounded-pill bg-secondary text-white border-0 mb-3 mt-5" placeholder="Search:">
@@ -69,23 +50,23 @@
             </div>
         </div>
 
-        <nav class="navbar fixed-bottom bg-secondary p-3" style="height: 120px;">
-        <div class="container d-flex justify-content-between align-items-end" style="height: 100%;">
-            <div class="d-flex gap-4">
-                <a class="nav-link pink-box text-white text-center p-3" href="#">placeholder</a>
-                <a class="nav-link pink-box text-white text-center p-3" href="#">placeholder</a>
+        <nav class="navbar fixed-bottom bg-secondary" style="height: 15vh;">
+            <div class="container d-flex justify-content-between align-items-end">
+                <div class="d-flex gap-4" style="width: 35vw;">
+                    <a class="nav-link pink-box text-white text-center p-3 flex-fill" href="#">placeholder</a>
+                    <a class="nav-link pink-box text-white text-center p-3 flex-fill" href="#">placeholder</a>
+                </div>
+
+                <div class="d-flex gap-4" style="width: 35vw;">
+                    <a class="nav-link pink-box text-white text-center p-3 flex-fill" href="#">placeholder</a>
+                    <a class="nav-link pink-box text-white text-center p-3 flex-fill" href="#">placeholder</a>
+                </div>
             </div>
 
-            <div class="d-flex gap-4">
-                <a class="nav-link pink-box text-white text-center p-3" href="#">placeholder</a>
-                <a class="nav-link pink-box text-white text-center p-3" href="#">placeholder</a>
-            </div>
-        </div>
-
-        <a class="nav-link play-circle text-white d-flex justify-content-center align-items-center position-absolute" style="bottom: 20px; left: 50%; transform: translateX(-50%);" href="#">
-            PLAY
-        </a>
-    </nav>
+            <a class="nav-link play-circle text-white d-flex justify-content-center align-items-center position-absolute" style="bottom: 20px; left: 50%; transform: translateX(-50%);" href="#">
+                PLAY
+            </a>
+        </nav>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     </body>
@@ -130,9 +111,6 @@
         background-color:#ea347d;
     }
     .scroll-box{
-        position: sticky; 
-        top: 20px;
-        max-height: 500px;
         overflow-y: auto;
     }
 </style>
