@@ -18,7 +18,7 @@
 ---
 
 ## About the Project
-Explain the "Why" behind the project. What was the inspiration? For school projects, you might want to mention the specific course or the problem statement provided by your instructor.
+School Project.
 
 ---
 
