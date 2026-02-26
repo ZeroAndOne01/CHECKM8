@@ -6,10 +6,11 @@
 > Ongoing Project for Microservices Architecture and Software Design.
 ---
 ## 📌 Table of Contents
-* [About the Project](#-about-the-project)
-* [Key Features](#-key-features)
-* [Tech Stack](#-tech-stack)
-* [Contributors](#-contributors)
+* [About the Project]
+* [Key Features]
+* [Tech Stack]
+* [Contributors]
+* [Database Setup]
 
 ---
 
@@ -27,7 +28,7 @@ Explain the "Why" behind the project. What was the inspiration? For school proje
 | Category | Technology |
 | :--- | :--- |
 | **Language** | PHP / HTML |
-| **Database** | SQL Server / MySQL |
+| **Database** | T-SQL |
 | **Frameworks** | Bootstrap |
 | **Tools** | XAMPP / VS Code / SQL Server Management Studio 21 |
 
