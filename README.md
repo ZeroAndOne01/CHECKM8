@@ -30,7 +30,7 @@ School Project.
 ## Tech Stack
 | Category | Technology |
 | :--- | :--- |
-| **Language** | PHP / HTML |
+| **Language** | PHP / HTML / CSS |
 | **Database** | T-SQL |
 | **Frameworks** | Bootstrap |
 | **Tools** | XAMPP / VS Code / SQL Server Management Studio 21 |
