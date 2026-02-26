@@ -2,7 +2,7 @@
 > A Social Media Website for the Modern Chess Enthusiast
 
 ---
-[!NOTE]
+> [!NOTE]
 > Ongoing Project for Microservices Architecture and Software Design.
 ---
 ## 📌 Table of Contents
