@@ -104,7 +104,7 @@ try {
                 <div class="logo-circle mx-auto mb-3" style="width: 80px; height: 80px; font-size: 2.5rem; border-width: 2px;">💎</div>
                 <h1 style="font-weight: 700; letter-spacing: 1px;">Top Up Your Treasury</h1>
                 <p style="color: #B49FDC; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
-                    Acquire CheckM8 coins to enter premium tournaments, tip your favorite players, and unlock exclusive board themes.
+                    Acquire CheckM8 coins.
                 </p>
             </div>
 
